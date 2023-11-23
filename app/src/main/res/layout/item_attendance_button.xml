@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.button.MaterialButton
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/buttonAttendance"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    app:cornerRadius="15dp"
+    app:iconGravity="start"
+    android:text="1"
+    android:textColor="@color/white"
+    android:textSize="21sp"
+    app:iconTint="@android:color/white"
+    app:iconSize="24dp"
+    app:strokeWidth="1dp"
+    app:backgroundTint="#FF0000"
+    />
